@@ -1,4 +1,4 @@
-# Piggy Pal: AI Agent for Personal Finance
+Demo of Personal Finance App Feature
 
 # Just One Feature
 
